@@ -25,6 +25,8 @@ The output of the previous approach might contain redundancies and short answers
 ### Additional Improvements:
 The previous pipeline was built considering only one language data stream, English. The VLM was fine-tuned using only the English queries, content, and responses. However, as the LLM we employed in the last step has some multilingual capabilities, we rebuilt the post-processing step of the pipeline by changing the query context to their Spanish versions. We kept the English image analysis in the context. We added additional prompt instructions to the model to request Spanish responses. As a result of this change, we could provide additional output for the Spanish language.
 
+As the post-processing large language model (LLM), we utilized a fine-tuned [BioMistral-7B](https://huggingface.co/BioMistral/BioMistral-7B-DARE) version we trained during our participation in the **mediqa-corr** task. For more details check our [medicorr repository](https://github.com/OWLmx/mediqa2024_medicorr).
+
 
 > Model references:
 > - Moondream: https://huggingface.co/vikhyatk/moondream2
@@ -56,7 +58,7 @@ pip install -r requirements.txt
     - - - mediqa-m3-clinicalnlp2024/
       - - - train.json
           - valid.json
-          - test.json
+      - m3g-test-allinputs-v2/
   - - images/
   - - - train/
       - test/
