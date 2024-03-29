@@ -36,8 +36,8 @@ As the post-processing large language model (LLM), we utilized a fine-tuned [Bio
 
 ### Submission runs:
 
-- id1: 
-- id2: 
+- English: `data/submissions/run_bs_ft_vq1_en_v1.json`
+- Spanish: `data/submissions/run_bs_ft_vq1_es_v2.json`
 
 
 ## Code requirements
@@ -71,16 +71,25 @@ pip install -r requirements.txt
 
 ## Data pre-processing
 
-This command will read the original M3G dataset files and built our own.
+This command will read the original M3G dataset files and built our own for finetuning. Check script to enable or disable image resizing in case your VRAM is not enough during the finetuning process even when chaging `BATCH_SIZE` and `GRAD_ACCUM_STEPS` parameters.
 
-python data_processing.py
+`python data_processing.py`
 
 
 ## Finetuning
 
-## Inference
+This script will read the pre-processed data store in data, this incldues the images in their original or resized version.
+
+`python fine_tuning.py`
+
+The finetuned model will be stored in `checkpoints` folder.
 
 ## LLM post-processing step
 
+See [medicorr repository](https://github.com/OWLmx/mediqa2024_medicorr).
 
-## Data processing
+## Inference & output generation
+
+The `output_generation.ipynb` jupyter notebook shows how to process the test dataset using the different approaches in the solution description. For the LLM post-processing steps (English & Spanish), the notebook shows how to create the intermediate json file sent to our CORR LLM solution and how the `tvs` returned by it is processed to generate the submissions.
+
+We include the original `json` submission files in the `data/submission` folder.
