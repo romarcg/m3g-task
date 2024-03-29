@@ -95,4 +95,4 @@ See [medicorr repository](https://github.com/OWLmx/mediqa2024_medicorr).
 
 The `output_generation.ipynb` jupyter notebook shows how to process the test dataset using the different approaches in the solution description. For the LLM post-processing steps (English & Spanish), the notebook shows how to create the intermediate json file sent to our CORR LLM solution and how the `tvs` returned by it is processed to generate the submissions.
 
-We include the original `json` submission files in the `data/submission` folder.
+We include the original `json` submission files in the `data/submissions` folder.
