@@ -1,7 +1,7 @@
 # NEUI Team - MEDIQA-M3G: Multilingual & Multimodal Medical Answer Generation
 
 > **neui** team
-> - romarch
+> - romarcg
 > - owlmx
 
 This repository contains the code for the NEUI team that participated in the Multilingual & Multimodal Medical Answer Generation task. 
@@ -42,11 +42,13 @@ As the post-processing large language model (LLM), we utilized a fine-tuned [Bio
 
 ## Code requirements
 
-Check the requirements.txt file.
+Check the `requirements.txt` file.
 
+```
 conda create m3g
 conda activate m3g
 pip install -r requirements.txt
+```
 
 ### Folder structure
 
@@ -64,7 +66,7 @@ pip install -r requirements.txt
       - test/
       - valid/
     - submissions/
-- - data_procesing.py
+- - data_processing.py
 - - fine_tuning.py
 - - output_generation.npyib
 
@@ -75,6 +77,7 @@ This command will read the original M3G dataset files and built our own for fine
 
 `python data_processing.py`
 
+> We include the original json files for all datasets. Images are missing. Copy the images in their respective folder. If resize is needed, remember to named the original images folders with the prefix `BASENAME_org` and enable the resizing instructions in the data_processing.py script.
 
 ## Finetuning
 
