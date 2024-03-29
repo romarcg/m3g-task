@@ -3,7 +3,6 @@ import numpy as np
 import json
 import glob
 import matplotlib.pyplot as plt
-import seaborn as sns
 import uuid
 
 import os, sys
@@ -11,8 +10,8 @@ from PIL import Image
 import glob
 
 
-data_path = "data/M3G/mediqa-m3g"
-data_path_test = "data/M3G/m3g-test-allinputs-v2"
+data_path = "data/M3G"
+data_path_test = "data/m3g-test-allinputs-v2"
 
 def get_stats(json_obj):
     _stats = []
@@ -166,6 +165,8 @@ def processing():
     # generate our datafiles
     # NOTE: file naming convention refers to the LLaVA dataset format not to the model used
     #       this format will allow us to test it on other pretrained models for validation
+
+    print(f"Processing training and validation dataset")
     
     lang = "en"
     faux_train_image_path = "data/images/train"
@@ -193,18 +194,20 @@ def processing():
 
     # resize images for loading convenience (resolution to this max new resolution have little impact --tested--)
     # only in case your HW cannot handle loading original size pictures for finetuning
-    resize_dataset(base_folder="train") # original images should be in data in a folder called BASE_org
-    resize_dataset("valid")
+    #resize_dataset(base_folder="train") # original images should be in data in a folder called BASE_org
+    #resize_dataset("valid")
     
     
     
     # for the test dataset (some tweaks)
 
+    print(f"Processing test dataset")
+
     # json files
     with open(f"{data_path_test}/input.json","r") as f:
         json_test = json.load(f)
 
-    print(f"Test samele")
+    print(f"Test sample")
     print(json_test[0])
 
     # Generate the files for both languages
@@ -228,7 +231,7 @@ def processing():
         json.dump(llava_ds_test, f, indent=4, ensure_ascii=False)
 
     # resize if needed (and if you used a resize version of the training images for finetuning)
-    resize_dataset("test")
+    #resize_dataset("test")
     
 
 
