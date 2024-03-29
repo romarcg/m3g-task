@@ -1,0 +1,1816 @@
+[
+    {
+        "id": "ENC00908",
+        "image": [
+            "data/images/test/IMG_ENC00908_00001.jpg",
+            "data/images/test/IMG_ENC00908_00002.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Mirad. ¿Es una enfermedad de la piel?"
+            },
+            {
+                "from": "human",
+                "value": "Foto 1: En la parte externa del muslo, hay un pequeño círculo de bultos.  Aproximadamente 2 meses.\nFoto 2: Pequeñas manchas rojas en la palma de la mano.  Ligero entumecimiento palmar.\n"
+            }
+        ]
+    },
+    {
+        "id": "ENC00909",
+        "image": [
+            "data/images/test/IMG_ENC00909_00001.jpg",
+            "data/images/test/IMG_ENC00909_00002.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Ver foto para diagnóstico."
+            },
+            {
+                "from": "human",
+                "value": "Por favor mirad las fotos."
+            }
+        ]
+    },
+    {
+        "id": "ENC00910",
+        "image": [
+            "data/images/test/IMG_ENC00910_00001.png",
+            "data/images/test/IMG_ENC00910_00002.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "¿Cómo se trata la tiña de la mano?"
+            },
+            {
+                "from": "human",
+                "value": "Durante mis prácticas en el hospital en 2012, utilicé lavamanos antiséptico con frecuencia, unas 7 u 8 veces al día.  Más tarde me salió tinea manus, y no se está curando.  Va y viene todo el tiempo.  Mejoró después de usar Pevisone durante un tiempo, pero ahora está volviendo, con muchas ampollas."
+            }
+        ]
+    },
+    {
+        "id": "ENC00911",
+        "image": [
+            "data/images/test/IMG_ENC00911_00001.jpg",
+            "data/images/test/IMG_ENC00911_00002.jpg",
+            "data/images/test/IMG_ENC00911_00003.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Niña de 16 meses.  Empezó a tener erupciones rojas a los 40 días de nacer.  Pica ligeramente, la piel no se desprende.  Después de usar el medicamento tópico recetado ambulatoriamente, la piel empieza a pelarse.  No hay descamación de la piel cuando no se utiliza el medicamento.  ¿Podrían los expertos ayudar a diagnosticar?"
+            }
+        ]
+    },
+    {
+        "id": "ENC00912",
+        "image": [
+            "data/images/test/IMG_ENC00912_00001.jpg",
+            "data/images/test/IMG_ENC00912_00002.jpg",
+            "data/images/test/IMG_ENC00912_00003.jpg",
+            "data/images/test/IMG_ENC00912_00004.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Líquen plano"
+            },
+            {
+                "from": "human",
+                "value": "La erupción liquenoide se encuentra en la piel de la parte externa de la parte superior del brazo y la parte inferior de la pierna.  La superficie es rugosa, con pequeñas escamas de piel, que aparecen de forma escamosa.  No produce picor.  El uso de corticoides por vía tópica no es eficaz.  Por favor, ayude a diagnosticar y proporcione un plan de tratamiento."
+            }
+        ]
+    },
+    {
+        "id": "ENC00913",
+        "image": [
+            "data/images/test/IMG_ENC00913_00001.jpg",
+            "data/images/test/IMG_ENC00913_00002.jpg",
+            "data/images/test/IMG_ENC00913_00003.jpg",
+            "data/images/test/IMG_ENC00913_00004.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Lactante de 2 años y medio. La uña del dedo se está enrojeciendo e hinchando con secreción acuosa."
+            },
+            {
+                "from": "human",
+                "value": "Tengo una pregunta sobre mi bebé. Tiene la uña del dedo hinchada y roja desde hace un mes, y cada vez peor. Se chupa el dedo. Cuando empezó a hincharse, usamos pomada de eritromicina y alcohol para desinfectarla. Empeoró 2 semanas después y apareció una secreción líquida clara cerca de la uña. Cambiamos a povidona yodada y JUC (un medicamento antibacteriano chino). Tres días después, cambiamos a pomada de eritromicina. Como se chupa el dedo, lo vendamos. Ha pasado un mes desde entonces, pero no hay ninguna mejora evidente. ¿Qué debemos hacer?"
+            }
+        ]
+    },
+    {
+        "id": "ENC00914",
+        "image": [
+            "data/images/test/IMG_ENC00914_00001.jpg",
+            "data/images/test/IMG_ENC00914_00002.jpg",
+            "data/images/test/IMG_ENC00914_00003.jpg",
+            "data/images/test/IMG_ENC00914_00004.jpg",
+            "data/images/test/IMG_ENC00914_00005.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Ayúdenme, hermanos y hermanas."
+            },
+            {
+                "from": "human",
+                "value": "Estas son las manos de mi amigo. Ha estado en varios hospitales, pero no lo han podido tratar.  Espero que podáis echar un vistazo para ver lo que es y qué tratamiento se necesita.  Tratamiento médico alternativo también es bienvenido.  Muchas gracias."
+            }
+        ]
+    },
+    {
+        "id": "ENC00915",
+        "image": [
+            "data/images/test/IMG_ENC00915_00001.jpg",
+            "data/images/test/IMG_ENC00915_00002.jpg",
+            "data/images/test/IMG_ENC00915_00003.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "¿Ésto es urticaria o algo distinto? Hace 10 años que lo tengo, se ha ido extendiendo por todo el cuerpo."
+            },
+            {
+                "from": "human",
+                "value": "Tengo esta enfermedad desde hace más de 10 años.  Empezó como una pequeña mancha cuando era adolescente.  Más tarde, fue creciendo y ahora pica más.  Fui a un hospital local donde tomaron dos muestras para estudio anatomopatológico, pero los resultados no fueron concluyentes.  Un practicante de medicina tradicional china me dijo que mi humedad corporal es demasiado pesada y que el problema debería curarse por sí solo gradualmente con el tiempo.  Sin embargo, el problema se ha agravado después de dar a luz.  Ahora me pica mucho y pierdo la confianza en mí misma.  Pido ayuda a los expertos para ver si esto se puede curar.  Algunos médicos dicen que no es urticaria crónica, y yo no tengo ni idea de si lo es o no."
+            }
+        ]
+    },
+    {
+        "id": "ENC00916",
+        "image": [
+            "data/images/test/IMG_ENC00916_00001.jpg",
+            "data/images/test/IMG_ENC00916_00002.jpg",
+            "data/images/test/IMG_ENC00916_00003.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "¿Sí o no?"
+            },
+            {
+                "from": "human",
+                "value": "Varón, 27 años.  Tiene la ampolla de la izquierda, como se ve en la foto, desde hace un mes.  No hay lesiones en las otras localizaciones.  Ningún síntoma autodetectado.  ¿Es tiña versicolor?   ¿Podrían aconsejarme?"
+            }
+        ]
+    },
+    {
+        "id": "ENC00917",
+        "image": [
+            "data/images/test/IMG_ENC00917_00001.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Por favor, mirad la foto y aconsejad."
+            },
+            {
+                "from": "human",
+                "value": "El paciente que acabo de ver tiene un historial médico de 20 años."
+            }
+        ]
+    },
+    {
+        "id": "ENC00918",
+        "image": [
+            "data/images/test/IMG_ENC00918_00001.jpg",
+            "data/images/test/IMG_ENC00918_00002.jpg",
+            "data/images/test/IMG_ENC00918_00003.jpg",
+            "data/images/test/IMG_ENC00918_00004.jpg",
+            "data/images/test/IMG_ENC00918_00005.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Miren esta foto."
+            },
+            {
+                "from": "human",
+                "value": "Varón de mediana edad, con erupciones desde hace un año.  No pican ni duelen. Son de color rojo, con pápulas y pequeñas ampollas.  Las erupciones aparecen en la parte superior de ambos brazos y en la parte posterior del cuerpo.  Hay menos erupciones en el pecho y el abdomen.  Hay una pequeña pápula, del tamaño de un grano de arroz, en la extremidad inferior.  No hay erupciones en el cuero cabelludo."
+            }
+        ]
+    },
+    {
+        "id": "ENC00919",
+        "image": [
+            "data/images/test/IMG_ENC00919_00001.jpg",
+            "data/images/test/IMG_ENC00919_00002.jpg",
+            "data/images/test/IMG_ENC00919_00003.jpg",
+            "data/images/test/IMG_ENC00919_00004.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Mujer de 55 años, inicio de los síntomas hace 10 días, al inicio de las lesiones cutáneas del tamaño de ***, desde el inicio de la enfermedad ha estado utilizando vino blanco para fregar la zona afectada."
+            }
+        ]
+    },
+    {
+        "id": "ENC00920",
+        "image": [
+            "data/images/test/IMG_ENC00920_00001.jpg",
+            "data/images/test/IMG_ENC00920_00002.jpg",
+            "data/images/test/IMG_ENC00920_00003.jpg",
+            "data/images/test/IMG_ENC00920_00004.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Ver foto para diagnóstico. Descamación recurrente de palmas y plantas.  ¿Cuál es la causa?"
+            },
+            {
+                "from": "human",
+                "value": "Varón, 17 años. En verano, desde hace 3 años, sensación continua de calor en el centro de la palma de la mano y en la planta del pie.  La piel se desgarra repetidamente. No pica."
+            }
+        ]
+    },
+    {
+        "id": "ENC00921",
+        "image": [
+            "data/images/test/IMG_ENC00921_00001.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Por favor, ayúdenme a ver qué tipo de enfermedad se muestra en la foto. ¿Cómo se puede tratar?"
+            },
+            {
+                "from": "human",
+                "value": "¿Me podéis ayudar? El paciente es un varón de 5 años. Vino a mi casa a las 5:00 pm para que le pusieran un parche para aliviar la tos. Se cortó el pelo después de tomar una botella de Coca-Cola y unos caramelos de gelatina. A las 9:00 pm de esa noche, le salieron bultos rojos dispersos. Se prescribe clorpromazina en comprimidos de 2 mg por vía oral dos veces al día durante 2 días, pero las lesiones aún se están extendiendo. Vea la imagen a continuación, e indique por favor la causa y el tratamiento."
+            }
+        ]
+    },
+    {
+        "id": "ENC00922",
+        "image": [
+            "data/images/test/IMG_ENC00922_00001.jpg",
+            "data/images/test/IMG_ENC00922_00002.jpg",
+            "data/images/test/IMG_ENC00922_00003.jpg",
+            "data/images/test/IMG_ENC00922_00004.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hinchazón de los dedos del pie durante años. "
+            },
+            {
+                "from": "human",
+                "value": "Varón, 68 años.  Tenía una masa en el dedo del pie desde hacía 3 años.  Salía una secreción pegajosa translúcida.  Tras disección quirúrgica, ha recidivado.  No hay anormalidad en el hueso después del examen con rayos X.  Por favor, diagnostique."
+            }
+        ]
+    },
+    {
+        "id": "ENC00923",
+        "image": [
+            "data/images/test/IMG_ENC00923_00001.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "¿Cuál es el mejor tratamiento para mi piel agrietada y descamada?"
+            },
+            {
+                "from": "human",
+                "value": "Hace casi un año. Antes no era tan ancha. Si sangra, le pongo una venda. Se curaba al cabo de unos días y no seguía abriéndose. Ahora se está abriendo cada vez más. \n¿Cuál es la mejor manera de manejar la situación ahora? Muchas gracias.\nEstoy recibiendo tratamiento en un hospital de Shenzhen. No me he hecho ninguna prueba de infección por hongos. Sigo un tratamiento combinado de medicina china y occidental. Todos los días me remojo la mano en hierbas medicinales chinas y me someto a dos tipos de tratamiento con láser. Ya han pasado 5 días. Hay más rasguños en la piel. El tratamiento se basa en la tiña de manos y pies.\n"
+            }
+        ]
+    },
+    {
+        "id": "ENC00924",
+        "image": [
+            "data/images/test/IMG_ENC00924_00001.jpg",
+            "data/images/test/IMG_ENC00924_00002.jpg",
+            "data/images/test/IMG_ENC00924_00003.jpg",
+            "data/images/test/IMG_ENC00924_00004.jpg",
+            "data/images/test/IMG_ENC00924_00005.jpg",
+            "data/images/test/IMG_ENC00924_00006.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Paciente de consultas externas"
+            },
+            {
+                "from": "human",
+                "value": "Mujer, 58 años.  Erupciones rojas dolorosas en ambas palmas.  Tiene fiebre de 38 grados C de forma intermitente desde hace 8 días.  Velocidad de eritrosedimentación de 85 mm/h.  Resultados negativos en los análisis rutinarios de sangre y orina.  Sin dolores articulares, sin sudoración nocturna, radiografía de tórax normal.  Toma antidepresivos desde hace 15 años."
+            }
+        ]
+    },
+    {
+        "id": "ENC00925",
+        "image": [
+            "data/images/test/IMG_ENC00925_00001.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Pápulas y bultos en la parte inferior izquierda del abdomen desde hace 7 meses."
+            },
+            {
+                "from": "human",
+                "value": "El paciente tiene 10 meses y contrajo la enfermedad hace 7 meses,  pápulas planas blancas y placa en la parte inferior izquierda del abdomen (ver fotos). Aún no se ha realizado biopsia. ¿Pueden los dermatólogos ayudar a diagnosticar?"
+            }
+        ]
+    },
+    {
+        "id": "ENC00926",
+        "image": [
+            "data/images/test/IMG_ENC00926_00001.jpg",
+            "data/images/test/IMG_ENC00926_00002.jpg",
+            "data/images/test/IMG_ENC00926_00003.jpg",
+            "data/images/test/IMG_ENC00926_00004.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "¿Me ayudáis a evaluar ésto?"
+            },
+            {
+                "from": "human",
+                "value": "Comienza con picor en la piel.  Tras rascarse, se convierte en urticaria.  Enseguida sale un líquido claro de las ampollas.  Allí donde llega el líquido, empieza a picar."
+            }
+        ]
+    },
+    {
+        "id": "ENC00927",
+        "image": [
+            "data/images/test/IMG_ENC00927_00001.jpg",
+            "data/images/test/IMG_ENC00927_00002.jpg",
+            "data/images/test/IMG_ENC00927_00003.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Ver foto para diagnóstico."
+            },
+            {
+                "from": "human",
+                "value": "Tiene un historial médico de 3 años.  Presenta picor y piel desgarrada con escamas."
+            }
+        ]
+    },
+    {
+        "id": "ENC00928",
+        "image": [
+            "data/images/test/IMG_ENC00928_00001.jpg",
+            "data/images/test/IMG_ENC00928_00002.jpg",
+            "data/images/test/IMG_ENC00928_00003.jpg",
+            "data/images/test/IMG_ENC00928_00004.jpg",
+            "data/images/test/IMG_ENC00928_00005.jpg",
+            "data/images/test/IMG_ENC00928_00006.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "¿Podría mirarlo un dermatólogo? ¿Es eritema multiforme?"
+            },
+            {
+                "from": "human",
+                "value": "El 31 de agosto tuve fiebre alta y me pusieron una inyección.  El 1 de septiembre, la fiebre no remitía y me pusieron una vía intravenosa con suero fisiológico.  Después de volver a casa, me encontré con numerosas erupciones rojas en los pies.  Pensé que se trataba de un brote de beriberi.  Las erupciones crecieron en número el 2 de septiembre, así que fui al hospital para que me hicieran un chequeo.  El médico dijo que se trataba de un eritema multiforme.   Me recetó prednisona y otros dos medicamentos.  También había una pomada de uso tópico.  Sin embargo, después de usarlos no me están ayudando. Ahora tengo más erupciones en las manos y los pies, y son más bien planas. Tengo la sensación de que el tejido que hay debajo de la piel se está pudriendo, es sensible al tacto.  ¿Se trata de eritema multiforme?"
+            }
+        ]
+    },
+    {
+        "id": "ENC00929",
+        "image": [
+            "data/images/test/IMG_ENC00929_00001.jpg",
+            "data/images/test/IMG_ENC00929_00002.jpg",
+            "data/images/test/IMG_ENC00929_00003.jpg",
+            "data/images/test/IMG_ENC00929_00004.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Mira la foto para el diagnóstico."
+            },
+            {
+                "from": "human",
+                "value": "Historial médico desde hace 36 años.  No se ha autodetectado ningún síntoma. El paciente tiene 37 años.  El tumor más grande apareció hace 3 meses."
+            }
+        ]
+    },
+    {
+        "id": "ENC00930",
+        "image": [
+            "data/images/test/IMG_ENC00930_00001.jpg",
+            "data/images/test/IMG_ENC00930_00002.jpg",
+            "data/images/test/IMG_ENC00930_00003.jpg",
+            "data/images/test/IMG_ENC00930_00004.jpg",
+            "data/images/test/IMG_ENC00930_00005.jpg",
+            "data/images/test/IMG_ENC00930_00006.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Solicito ayuda a dermatólogos."
+            },
+            {
+                "from": "human",
+                "value": "Mujer.  Autodescripción: picor muy evidente.  Lesiones cutáneas: ver imagen.  Obsérvese el cuero cabelludo."
+            }
+        ]
+    },
+    {
+        "id": "ENC00931",
+        "image": [
+            "data/images/test/IMG_ENC00931_00001.jpg",
+            "data/images/test/IMG_ENC00931_00002.jpg",
+            "data/images/test/IMG_ENC00931_00003.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Enfermedad vista hace años. 3."
+            },
+            {
+                "from": "human",
+                "value": "La erupción apareció hace 3 días sin ninguna causa evidente.  Pica."
+            }
+        ]
+    },
+    {
+        "id": "ENC00932",
+        "image": [
+            "data/images/test/IMG_ENC00932_00001.jpg",
+            "data/images/test/IMG_ENC00932_00002.jpg",
+            "data/images/test/IMG_ENC00932_00003.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Ver foto para diagnóstico."
+            },
+            {
+                "from": "human",
+                "value": "¿Es onicomicosis? La paciente es una mujer de 60 años que sufre de hipotiroidismo y toma Eutirox todos los días. La parte frontal de la uña es delgada y la parte posterior gruesa."
+            }
+        ]
+    },
+    {
+        "id": "ENC00933",
+        "image": [
+            "data/images/test/IMG_ENC00933_00001.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "¿De qué enfermedad cutánea se trata?"
+            },
+            {
+                "from": "human",
+                "value": "Ha estado yendo y viniendo durante muchos años.  He ido al dermatólogo, pero no me ha ayudado.  ¿Qué tipo de tratamiento es necesario?"
+            }
+        ]
+    },
+    {
+        "id": "ENC00934",
+        "image": [
+            "data/images/test/IMG_ENC00934_00001.jpg",
+            "data/images/test/IMG_ENC00934_00002.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "El paciente de hoy. ¿Podéis darme vuestra opinión?"
+            },
+            {
+                "from": "human",
+                "value": "Paciente ambulatorio con antecedentes de diabetes, no ha tomado ningún medicamento nuevo."
+            }
+        ]
+    },
+    {
+        "id": "ENC00935",
+        "image": [
+            "data/images/test/IMG_ENC00935_00001.jpg",
+            "data/images/test/IMG_ENC00935_00002.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Caso número 1."
+            },
+            {
+                "from": "human",
+                "value": "Varón, 72 años.  Erupciones en la cintura y el abdomen desde hace 2 años.  Picor leve."
+            }
+        ]
+    },
+    {
+        "id": "ENC00936",
+        "image": [
+            "data/images/test/IMG_ENC00936_00001.jpg",
+            "data/images/test/IMG_ENC00936_00002.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Alguien puede ayudar a diagnosticar qué enfermedad de la piel es ésto? Gracias"
+            },
+            {
+                "from": "human",
+                "value": "Crecen en un lado de la pantorrilla, alrededor de 10. En los otros sitios hay dos o tres.  No pican mucho.  Hay descamación en la superficie.  Vuelven a crecer después de eliminarlas tras el rascado.  Hace 2 semanas que las tengo."
+            }
+        ]
+    },
+    {
+        "id": "ENC00937",
+        "image": [
+            "data/images/test/IMG_ENC00937_00001.jpg",
+            "data/images/test/IMG_ENC00937_00002.jpg",
+            "data/images/test/IMG_ENC00937_00003.jpg",
+            "data/images/test/IMG_ENC00937_00004.jpg",
+            "data/images/test/IMG_ENC00937_00005.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "La queilitis que molesta a la niña desde hace 3 años.  Ha consultado a médicos de hospitales muy buenos en Nankín y Shanghai."
+            },
+            {
+                "from": "human",
+                "value": "Me visitaron expertos de Nankín y Shanghai, comenzando cuando en el 3er año de la escuela secundaria. No se cura desde entonces. Espero que algún experto puede ayudar."
+            }
+        ]
+    },
+    {
+        "id": "ENC00938",
+        "image": [
+            "data/images/test/IMG_ENC00938_00001.jpg",
+            "data/images/test/IMG_ENC00938_00002.jpg",
+            "data/images/test/IMG_ENC00938_00003.jpg",
+            "data/images/test/IMG_ENC00938_00004.jpg",
+            "data/images/test/IMG_ENC00938_00005.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Paciente visitado el 23 de diciembre. Ver foto para diagnóstico."
+            },
+            {
+                "from": "human",
+                "value": "La paciente es una mujer anciana. Tiene diabetes. Presenta lesiones cutáneas en ambos miembros inferiores desde hace 7 años. \n Lesiones cutáneas en la parte posterior del cuerpo y abdomen durante 2 semanas. \nSensación de picazón y dolor. Por favor diagnostique."
+            }
+        ]
+    },
+    {
+        "id": "ENC00939",
+        "image": [
+            "data/images/test/IMG_ENC00939_00001.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Pasé una noche en un hotel y hoy me ha salido ésto en el cuerpo. Pica mucho."
+            },
+            {
+                "from": "human",
+                "value": "Mala suerte.  El segundo día sentí un poco de picor.  Al volver a casa, me di cuenta de que tenía entre 7 y 8 bultos en la parte superior del cuerpo cuando me bañaba.  \nCompré mis propias toallas cuando estaba en el hotel.    Éstos son los bultos de mi cuerpo.  \nHe tomado Daklin, cápsulas de Yiqing, roxitromicina. También tengo loción de calamina.  ¿Debo usar la loción de calamina para lavar los bultos?  Me preocupa que sea una enfermedad cutánea contagiosa."
+            }
+        ]
+    },
+    {
+        "id": "ENC00940",
+        "image": [
+            "data/images/test/IMG_ENC00940_00001.jpg",
+            "data/images/test/IMG_ENC00940_00002.jpg",
+            "data/images/test/IMG_ENC00940_00003.jpg",
+            "data/images/test/IMG_ENC00940_00004.jpg",
+            "data/images/test/IMG_ENC00940_00005.jpg",
+            "data/images/test/IMG_ENC00940_00006.jpg",
+            "data/images/test/IMG_ENC00940_00007.jpg",
+            "data/images/test/IMG_ENC00940_00008.jpg",
+            "data/images/test/IMG_ENC00940_00009.jpg",
+            "data/images/test/IMG_ENC00940_00010.jpg",
+            "data/images/test/IMG_ENC00940_00011.jpg",
+            "data/images/test/IMG_ENC00940_00012.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Agradecería ayuda en la valoración de ésta lesión. Está creciendo sin parar."
+            },
+            {
+                "from": "human",
+                "value": "El número de estos pequeños bultos es cada vez mayor.  Algunos desaparecen al cabo de unos 10 días o más.  Sin embargo, aparecen en otros lugares.  No duelen ni pican.  Su color se desvanece al presionarlos.  Algunas personas dicen que se trata de un nevus vascular, pero no sé si es cierto o no.  No los veo en invierno.  En cuanto empieza a hacer calor, vuelven a aparecer.  Me preocupa mucho.  Hay un círculo blanco alrededor del bulto, como se ve en la foto."
+            }
+        ]
+    },
+    {
+        "id": "ENC00941",
+        "image": [
+            "data/images/test/IMG_ENC00941_00001.jpg",
+            "data/images/test/IMG_ENC00941_00002.jpg",
+            "data/images/test/IMG_ENC00941_00003.jpg",
+            "data/images/test/IMG_ENC00941_00004.jpg",
+            "data/images/test/IMG_ENC00941_00005.jpg",
+            "data/images/test/IMG_ENC00941_00006.jpg",
+            "data/images/test/IMG_ENC00941_00007.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "¿Qué es la mancha roja del tamaño de una moneda?"
+            },
+            {
+                "from": "human",
+                "value": "Mi madre tiene 70 años.  Recientemente le han salido erupciones en los brazos y debajo del cuello.  Las erupciones son como una moneda grande.  Los bordes de las erupciones son claros y limpios, pero dolorosos y pican.  No sé de qué enfermedad se trata.  Fui a ver a un médico en el hospital del condado.  El médico dijo que era eccema y me recetó algunos medicamentos.  Se ha aliviado un poco el síntoma, pero no ha habido ninguna mejora evidente.  ¿Podría algún experto aconsejar sobre el diagnóstico y el tratamiento?"
+            }
+        ]
+    },
+    {
+        "id": "ENC00942",
+        "image": [
+            "data/images/test/IMG_ENC00942_00001.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "¿Podríais también ayudarme a evaluar esta lesión?"
+            },
+            {
+                "from": "human",
+                "value": "Lleva ahí, debajo del cuello, muchos años.  Sólo hay uno, no duele ni pica.  ¿Cuál es la enfermedad?  ¿Se puede extraer?"
+            }
+        ]
+    },
+    {
+        "id": "ENC00943",
+        "image": [
+            "data/images/test/IMG_ENC00943_00001.jpg",
+            "data/images/test/IMG_ENC00943_00002.jpg",
+            "data/images/test/IMG_ENC00943_00003.jpg",
+            "data/images/test/IMG_ENC00943_00004.jpg",
+            "data/images/test/IMG_ENC00943_00005.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Lesión cutánea en la extremidad inferior derecha"
+            },
+            {
+                "from": "human",
+                "value": "Varón de 75 años.  Presenta una lesión cutánea en la extremidad inferior derecha.  Leve picor.  El paciente se la había extirpado una vez con un pequeño cuchillo, e informó de que parte de la lesión había desaparecido.\nEl paciente es anciano y acudió a la asistencia médica por hipertensión y mareos.  Mientras esperaba la asistencia, vino a consultarme.  Basándome en el estado de la erupción, me inclino por un diagnóstico de liquen plano hipertrófico.  Aún no hay examen patológico.  Sólo lo planteo aquí para discutirlo.  Por favor, aconséjenme.\n"
+            }
+        ]
+    },
+    {
+        "id": "ENC00944",
+        "image": [
+            "data/images/test/IMG_ENC00944_00001.jpg",
+            "data/images/test/IMG_ENC00944_00002.jpg",
+            "data/images/test/IMG_ENC00944_00003.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "He tenido picores estacionales durante 3 años"
+            },
+            {
+                "from": "human",
+                "value": "La paciente es una mujer de 4 años.  Acudió al médico el 19-5-2010.  Empezó a tener erupciones con picor en primavera y otoño de 2008 y anualmente después.  Se curaban solas al cabo de un mes.  Este año no se curan después de 3 meses.  El uso de medicamentos tópicos no ayuda.  Ahora estoy enviando fotos, para que los dermatólogos puedan echar un vistazo."
+            }
+        ]
+    },
+    {
+        "id": "ENC00945",
+        "image": [
+            "data/images/test/IMG_ENC00945_00001.jpg",
+            "data/images/test/IMG_ENC00945_00002.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "¿Qué tipo de enfermedad es ésta, en la piel bajo el ojo?"
+            },
+            {
+                "from": "human",
+                "value": "El paciente empezó con este problema a los 16-17 años.  Crecen en la parte inferior del ojo en forma de pequeños gránulos blancos.  Son muy pequeños y bastante densos, en la parte inferior de las bolsas oculares.  No ha habido muchos cambios durante 10 años.  Se encogen un poco después de usar pomadas oculares.  Aconsejado por otras personas, utilicé pasta de dientes durante un par de días.  Sin embargo, los gránulos crecen en número y se hacen más evidentes.  Estos son muy pequeños y están muy adentro, no puedo exprimirlos.  He utilizado aguja para sacarlos de lo profundo.  Lo que se ha sacado son pequeñas cabezas purulentas como granos de destilería.  ¿Puedo pedir que echéis un vistazo para ver qué es esto y cómo tratarlo?"
+            }
+        ]
+    },
+    {
+        "id": "ENC00946",
+        "image": [
+            "data/images/test/IMG_ENC00946_00001.jpg",
+            "data/images/test/IMG_ENC00946_00002.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Ver foto para diagnóstico."
+            },
+            {
+                "from": "human",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ENC00947",
+        "image": [
+            "data/images/test/IMG_ENC00947_00001.jpg",
+            "data/images/test/IMG_ENC00947_00002.jpg",
+            "data/images/test/IMG_ENC00947_00003.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Mujer, 12 años.  Picor con dolor.  En su aparición hace 5 días, la ampolla no estaba bien formada."
+            }
+        ]
+    },
+    {
+        "id": "ENC00948",
+        "image": [
+            "data/images/test/IMG_ENC00948_00001.jpg",
+            "data/images/test/IMG_ENC00948_00002.jpg",
+            "data/images/test/IMG_ENC00948_00003.jpg",
+            "data/images/test/IMG_ENC00948_00004.jpg",
+            "data/images/test/IMG_ENC00948_00005.jpg",
+            "data/images/test/IMG_ENC00948_00006.jpg",
+            "data/images/test/IMG_ENC00948_00007.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Solicito consulta."
+            },
+            {
+                "from": "human",
+                "value": "Varón de 31 años.  Tiene la enfermedad en ambas manos desde hace más de 10 años.  Múltiples tratamientos antes fueron sin éxito.  Ver foto de arriba."
+            }
+        ]
+    },
+    {
+        "id": "ENC00949",
+        "image": [
+            "data/images/test/IMG_ENC00949_00001.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "¿De qué enfermedad se trata?"
+            },
+            {
+                "from": "human",
+                "value": "Paciente varón de 14 años. Hace un mes, aparecieron pequeños bultos rojos esparcidos por todo el cuerpo. Pican y no interfieren con el sueño. Se curó después del tratamiento con antialérgicos.\nHoy han vuelto a aparecer, como se ve en las fotos. \n¿Podrían los expertos echar un vistazo y diagnosticar la enfermedad?\n¿Es pitiriasis rosada?\n"
+            }
+        ]
+    },
+    {
+        "id": "ENC00950",
+        "image": [
+            "data/images/test/IMG_ENC00950_00001.jpg",
+            "data/images/test/IMG_ENC00950_00002.jpg",
+            "data/images/test/IMG_ENC00950_00003.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "¿Pueden ayudarme a ver qué le pasa a mi bebé?"
+            },
+            {
+                "from": "human",
+                "value": "Descripción de la situación: Niña de 2 años.  Tiene dos pequeñas masas en el muslo izquierdo, \nen la zona de pliegue entre la nalga y la parte posterior del muslo.  Las masas son congénitas, pero no se detectaron al nacimiento, \ny crecieron con relativa rapidez antes de cumplir un año.  No se realizó tratamiento. Visualmente, se están extendiendo muy \nlentamente a ambos lados.  No pican ni duelen ni molestan.  Piel suave, sin sensación de hinchazón. \nNo alteración cutánea en el lugar de una nueva lesión, ni donde originalmente crecían las masas.  \nHay un poco de escarificación cuando se seca en otoño e invierno. Otras observaciones: Es fácil dejar cicatrices en la piel de la niña.  \nLa piel es blanquecina después de la curación de picaduras.  La cicatriz es plana. ¿Puedo pedirle a un médico que le eche un vistazo?\n  Muchas gracias."
+            }
+        ]
+    },
+    {
+        "id": "ENC00951",
+        "image": [
+            "data/images/test/IMG_ENC00951_00001.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "¿Podría mirarlo un dermatólogo? ¡Muchas gracias!"
+            },
+            {
+                "from": "human",
+                "value": "La piel muerta permanece de 2 a 3 años. No pica ni duele. Simplemente vuelve a crecer después de quitarla. Me he aplicado algún medicamento antialérgico, ¡pero no mejora!"
+            }
+        ]
+    },
+    {
+        "id": "ENC00952",
+        "image": [
+            "data/images/test/IMG_ENC00952_00001.jpg",
+            "data/images/test/IMG_ENC00952_00002.jpg",
+            "data/images/test/IMG_ENC00952_00003.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "¿Qué enfermedad es ésta? ¿Cuál sería el tratamiento? ¡Muchas gracias por la ayuda!"
+            },
+            {
+                "from": "human",
+                "value": "Mano con picazón, sequedad y grietas desde hace más de 2 meses. Hace dos meses aparecieron pequeñas ampollas de causa desconocida. Picazón insoportable. Posteriormente, las pequeñas ampollas se fusionan formando un parche, que se agrieta y se pela con un dolor insoportable. Los medicamentos orales recetados en el hospital no han dado resultado: cápsulas de glicirricina, cimetidina, ciproheptadina. No he conseguido tratarlo, incluso con la ayuda de muchas personas. Solicito ayuda a los dermatólogos. ¡Muchas gracias!"
+            }
+        ]
+    },
+    {
+        "id": "ENC00953",
+        "image": [
+            "data/images/test/IMG_ENC00953_00001.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "¡Ayuda, por Dios! Hay muchos bultos"
+            },
+            {
+                "from": "human",
+                "value": "Me salieron estos bultos después de dormir anoche.  Pican y duelen.  Están por todo el cuerpo.  ¿Cuál es el problema?"
+            }
+        ]
+    },
+    {
+        "id": "ENC00954",
+        "image": [
+            "data/images/test/IMG_ENC00954_00001.jpg",
+            "data/images/test/IMG_ENC00954_00002.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Varón, 18 años.  Lesiones cutáneas que salen en verano como se ve en la foto.  Recurrentes desde hace 3 años.  El problema desaparece en invierno."
+            }
+        ]
+    },
+    {
+        "id": "ENC00955",
+        "image": [
+            "data/images/test/IMG_ENC00955_00001.jpg",
+            "data/images/test/IMG_ENC00955_00002.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Ver foto para diagnóstico."
+            },
+            {
+                "from": "human",
+                "value": "La paciente es una mujer de 67 años. Tuvo erupciones rojas pruriginosas en las dos extremidades inferiores durante más de 3 meses. Pican."
+            }
+        ]
+    },
+    {
+        "id": "ENC00956",
+        "image": [
+            "data/images/test/IMG_ENC00956_00001.png",
+            "data/images/test/IMG_ENC00956_00002.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "¿El que tengo en la parte exterior de la palma de la mano derecha es un eccema, un sarpullido o qué? (con fotos)"
+            },
+            {
+                "from": "human",
+                "value": "Hace aproximadamente un mes. Crecieron varias ampollas pequeñas en la parte exterior de la palma de la mano derecha. Son translúcidas. Pensé que se trataba de un eczema. Sin embargo, también tengo beriberi, y recae cada verano. Me remojo el pie en Gloss Foot Potion (una medicina tradicional china que contiene polvos de talco, ácido salicílico y ácido benzoico), suficiente para un año. También tengo crema de clorhidrato de terbinafina, para mi beriberi. Me la he aplicado en la palma de la mano durante una semana y no he notado ninguna mejoría.\nSíntoma: La piel se está endureciendo y secando, volviéndose áspera.  Tengo pequeñas ampollas, que no pican.  No estoy seguro si es eczema o tiña.  ¿Qué tipo de medicamento es mejor?  Por favor, ayúdenme.\nObservación:  Puede excluir como causa el uso del ratón.  Soy zurdo.\n"
+            }
+        ]
+    },
+    {
+        "id": "ENC00957",
+        "image": [
+            "data/images/test/IMG_ENC00957_00001.jpg",
+            "data/images/test/IMG_ENC00957_00002.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Por favor, ¿qué me está sucediendo en la pierna?"
+            },
+            {
+                "from": "human",
+                "value": "Desde el año pasado me han salido manchas blancas del tamaño de una judía verde en la parte inferior de las piernas.  Parece que están debajo de la piel, no en la superficie.  No pican ni duelen.  Tampoco sé la causa.  Como soy bastante peluda, he usado crema depilatoria y cera de abejas depilatoria, a veces estoy usando pinzas para sacarlas, no estoy segura de si esto está relacionado con la enfermedad.  He investigado un poco, no se parece al vitíligo ni a la tiña versicolor.  Muy molesto.  He utilizado mi teléfono para tomar fotos y pediría que la comunidad echara un vistazo.  Muchas gracias.\nAh sí, me gustaría hacer la depilación E-light.  No sé si esto afectaría a mi situación.\n"
+            }
+        ]
+    },
+    {
+        "id": "ENC00958",
+        "image": [
+            "data/images/test/IMG_ENC00958_00001.jpg",
+            "data/images/test/IMG_ENC00958_00002.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Úlceras en ambos miembros inferiores.  Dolor desde hace 2 meses."
+            },
+            {
+                "from": "human",
+                "value": "Paciente varón de 17 años con úlceras en ambas extremidades inferiores y dolor desde hacía dos meses, sin antecedentes de diabetes mellitus ni antecedentes familiares."
+            }
+        ]
+    },
+    {
+        "id": "ENC00959",
+        "image": [
+            "data/images/test/IMG_ENC00959_00001.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Su ampolla tiene forma ovalada.  ¿De qué enfermedad se trata?"
+            },
+            {
+                "from": "human",
+                "value": "El paciente tiene en las manos varias ampollas pequeñas de forma ovalada."
+            }
+        ]
+    },
+    {
+        "id": "ENC00960",
+        "image": [
+            "data/images/test/IMG_ENC00960_00001.jpg",
+            "data/images/test/IMG_ENC00960_00002.jpg",
+            "data/images/test/IMG_ENC00960_00003.jpg",
+            "data/images/test/IMG_ENC00960_00004.jpg",
+            "data/images/test/IMG_ENC00960_00005.jpg",
+            "data/images/test/IMG_ENC00960_00006.jpg",
+            "data/images/test/IMG_ENC00960_00007.jpg",
+            "data/images/test/IMG_ENC00960_00008.jpg",
+            "data/images/test/IMG_ENC00960_00009.jpg",
+            "data/images/test/IMG_ENC00960_00010.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Erupciones en el dorso de ambas manos desde hace 2 años.  ¿Podéis diagnosticar?.  Gracias.  La foto es un poco grande."
+            },
+            {
+                "from": "human",
+                "value": "Paciente varón de 50 años, cultivador de tabaco.  Sin ninguna causa evidente, y desde hace 2 años, le aparece una erupción nodular en el dorso de ambas manos.  Pica.  A veces mejora.  Ver foto."
+            }
+        ]
+    },
+    {
+        "id": "ENC00961",
+        "image": [
+            "data/images/test/IMG_ENC00961_00001.jpg",
+            "data/images/test/IMG_ENC00961_00002.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "¿Le parece que el diagnóstico de la foto es eccema numular?"
+            },
+            {
+                "from": "human",
+                "value": "Mujer.  ** no localizada en (** areola mamaria).  Lesión cutánea tal y como se ve en la foto desde hace 2 años.  Muy pruriginosa.  No se extiende, tampoco hay úlcera.  ¿Qué enfermedad es?"
+            }
+        ]
+    },
+    {
+        "id": "ENC00962",
+        "image": [
+            "data/images/test/IMG_ENC00962_00001.jpg",
+            "data/images/test/IMG_ENC00962_00002.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Paciente de consultas externas número 6"
+            },
+            {
+                "from": "human",
+                "value": "El paciente es un varón joven.  Erupciones densas en el dorso de la mano izquierda.  Dolorosas."
+            }
+        ]
+    },
+    {
+        "id": "ENC00963",
+        "image": [
+            "data/images/test/IMG_ENC00963_00001.jpg",
+            "data/images/test/IMG_ENC00963_00002.jpg",
+            "data/images/test/IMG_ENC00963_00003.jpg",
+            "data/images/test/IMG_ENC00963_00004.jpg",
+            "data/images/test/IMG_ENC00963_00005.jpg",
+            "data/images/test/IMG_ENC00963_00006.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Erupciones rojizas recurrentes en manos y pies durante más de 10 años."
+            },
+            {
+                "from": "human",
+                "value": "Mujer de 59 años.  Erupciones rojas recurrentes en las 4 extremidades.  Está bastante sana, ausencia de enfermedades subyacentes.  Ninguna infección por hongos o mohos.  Era trabajadora textil antes de jubilarse.  Grupo sanguíneo Rh.  \nLas lesiones aparecieron hace 10 años en las 4 extremidades, palmas y plantas sin causa conocida. Puede extenderse a todas las partes de las 4 extremidades y al tronco del cuerpo.  La aparición de la enfermedad se debe sobre todo a la diferencia de temperatura.  Cuanto más alta es la temperatura, más evidente es el problema.  Pica mucho.  He estado en un hospital, y el diagnóstico ha sido dermatitis estacional.  Los esteroides son bastante útiles, pero el problema reaparece cuando se interrumpe el tratamiento.  Espero obtener un diagnóstico claro.  Muchas gracias.\n"
+            }
+        ]
+    },
+    {
+        "id": "ENC00964",
+        "image": [
+            "data/images/test/IMG_ENC00964_00001.jpg",
+            "data/images/test/IMG_ENC00964_00002.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "La piel está roja e hinchada. ¿Cuáles son los posibles diagnósticos?"
+            },
+            {
+                "from": "human",
+                "value": "La piel se está poniendo roja y duele. Por favor, aconsejen.\nConocí a un paciente hoy, un hombre de 28 años, conductor. Le crece una franja como un bulto rojo en la pierna izquierda, cerca del interior de la rodilla. El área afectada está enrojecida e hinchada. No pica y es sensible al tacto. Tiene la sensación de una tira dura al tocarla. Quiere saber el diagnóstico y la medicación utilizada. Muchas gracias.\nEnviaré fotos a continuación.\nMi impresión: podría tratarse de una artropatía aguda. Sin un diagnóstico claro, se pueden utilizar antibióticos y esteroides como betametasona oral y Vitamina B1, Futalin para uso externo.\n"
+            }
+        ]
+    },
+    {
+        "id": "ENC00965",
+        "image": [
+            "data/images/test/IMG_ENC00965_00001.jpg",
+            "data/images/test/IMG_ENC00965_00002.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Exantema en la cabeza del bebé"
+            },
+            {
+                "from": "human",
+                "value": "Bebé de 2 meses.  Erupciones en la cabeza, con pequeñas escamas. Las erupciones sobresalen por encima del cuero cabelludo y tienen forma de tira.  No hay ampollas ni úlceras.  De vez en cuando llora y grita.  ¿Cuál es el diagnóstico?"
+            }
+        ]
+    },
+    {
+        "id": "ENC00966",
+        "image": [
+            "data/images/test/IMG_ENC00966_00001.jpg",
+            "data/images/test/IMG_ENC00966_00002.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Mujer de 46 años.  El problema surgió en la parte posterior del cuerpo después de llevar ropa vieja.  Síntoma: picor agudo, pequeña cantidad de secreción que gotea de la zona afectada.  Empezó con poca cantidad, pero estalló en parches después de lavarse con agua tibia.  No mejora después de tomar Claritine.  Ahora aplico tópicamente la crema fina de alcanfor Disong (un ungüento antiinflamatorio y antialérgico a base de hierbas chinas).  Toma ketotifen vía oral."
+            }
+        ]
+    },
+    {
+        "id": "ENC00967",
+        "image": [
+            "data/images/test/IMG_ENC00967_00001.jpg",
+            "data/images/test/IMG_ENC00967_00002.jpg",
+            "data/images/test/IMG_ENC00967_00003.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Diagnóstico del caso"
+            },
+            {
+                "from": "human",
+                "value": "La historia clínica de esta enfermedad no es tan completa.  La paciente es una mujer joven, relativamente obsesionada.  Tiene manchas rojas oscuras en la zona de los muslos y las nalgas, como se muestra en la imagen.  Ningún síntoma evidente para la paciente.  Inicio de la enfermedad en invierno, frío al tacto.  No se han encontrado erupciones en el resto del cuerpo.  Aún no he realizado ningún examen de laboratorio.  Pero estoy pensando en una vasculitis de la piel del muslo y las nalgas asociada a la globulinemia catarral, y es necesario distinguirla de los sabañones.  ¿Cuál es la opinión de la comunidad?"
+            }
+        ]
+    },
+    {
+        "id": "ENC00968",
+        "image": [
+            "data/images/test/IMG_ENC00968_00001.jpg",
+            "data/images/test/IMG_ENC00968_00002.jpg",
+            "data/images/test/IMG_ENC00968_00003.jpg",
+            "data/images/test/IMG_ENC00968_00004.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Médicos, ¿ésto es vitíligo? Estoy asustada."
+            },
+            {
+                "from": "human",
+                "value": "¿Algún médico generoso puede echarme una mano? Quiero saber cómo tratarlo."
+            }
+        ]
+    },
+    {
+        "id": "ENC00969",
+        "image": [
+            "data/images/test/IMG_ENC00969_00001.jpg",
+            "data/images/test/IMG_ENC00969_00002.jpg",
+            "data/images/test/IMG_ENC00969_00003.jpg",
+            "data/images/test/IMG_ENC00969_00004.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "El herpes simple curado."
+            },
+            {
+                "from": "human",
+                "value": "El área afectada todavía pica mucho. Hay pigmentación y descamación de la piel. La cara (ambos lados de la mejilla) se está poniendo roja. Espero que los dermatólogos puedan ayudar.\nDe hecho, no sé si es eccema o herpes. Han crecido a ambos lados de las mejillas y los muslos."
+            }
+        ]
+    },
+    {
+        "id": "ENC00970",
+        "image": [
+            "data/images/test/IMG_ENC00970_00001.jpg",
+            "data/images/test/IMG_ENC00970_00002.jpg",
+            "data/images/test/IMG_ENC00970_00003.jpg",
+            "data/images/test/IMG_ENC00970_00004.jpg",
+            "data/images/test/IMG_ENC00970_00005.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Ver foto para diagnóstico."
+            },
+            {
+                "from": "human",
+                "value": "Ocurre en la mano izquierda y en el medio de ambos pies.  Pica desde hace más de 20 años. Ver las fotos."
+            }
+        ]
+    },
+    {
+        "id": "ENC00971",
+        "image": [
+            "data/images/test/IMG_ENC00971_00001.jpg",
+            "data/images/test/IMG_ENC00971_00002.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Foto 1."
+            },
+            {
+                "from": "human",
+                "value": "Mujer de 32 años.  Erupción cutánea verrugosa lineal en la parte inferior izquierda de la barbilla desde hace 20 años.  Crece lentamente.  A veces le pica levemente."
+            }
+        ]
+    },
+    {
+        "id": "ENC00972",
+        "image": [
+            "data/images/test/IMG_ENC00972_00001.jpg",
+            "data/images/test/IMG_ENC00972_00002.jpg",
+            "data/images/test/IMG_ENC00972_00003.jpg",
+            "data/images/test/IMG_ENC00972_00004.jpg",
+            "data/images/test/IMG_ENC00972_00005.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Enfermedad de la uña del pie"
+            },
+            {
+                "from": "human",
+                "value": "La uña del dedo del pie está deformada, ha cambiado de color desde hace casi 6 meses.  El paciente tiene psoriasis leve, común.  Por favor, vea cuál es el problema con la uña del dedo del pie."
+            }
+        ]
+    },
+    {
+        "id": "ENC00973",
+        "image": [
+            "data/images/test/IMG_ENC00973_00001.jpg",
+            "data/images/test/IMG_ENC00973_00002.jpg",
+            "data/images/test/IMG_ENC00973_00003.jpg",
+            "data/images/test/IMG_ENC00973_00004.jpg",
+            "data/images/test/IMG_ENC00973_00005.jpg",
+            "data/images/test/IMG_ENC00973_00006.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Púrpura alérgica"
+            },
+            {
+                "from": "human",
+                "value": "La paciente tiene 25 años, y un historial médico de urticaria crónica.  Ahora tiene erupciones dispersas en las 4 extremidades.  Al presionar sobre las de los miembros inferiores, el color no se desvanece.  Bastante picor.  Solicito diagnóstico."
+            }
+        ]
+    },
+    {
+        "id": "ENC00974",
+        "image": [
+            "data/images/test/IMG_ENC00974_00001.jpg",
+            "data/images/test/IMG_ENC00974_00002.jpg",
+            "data/images/test/IMG_ENC00974_00003.jpg",
+            "data/images/test/IMG_ENC00974_00004.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Mirad la foto para el diagnóstico y tratamiento."
+            },
+            {
+                "from": "human",
+                "value": "¿Podrían los expertos ayudar a ver qué enfermedad se trata? La piel se pela y pica.  El paciente bebe mucho.  Se ve mancha de sangre después de pinchar la piel abierta.  Ahora empezando también a tener descamación de la piel y picazón en la pierna izquierda.  Espero que los dermatólogos ayuden con el diagnóstico y tratamiento necesario."
+            }
+        ]
+    },
+    {
+        "id": "ENC00975",
+        "image": [
+            "data/images/test/IMG_ENC00975_00001.jpg",
+            "data/images/test/IMG_ENC00975_00002.jpg",
+            "data/images/test/IMG_ENC00975_00003.jpg",
+            "data/images/test/IMG_ENC00975_00004.jpg",
+            "data/images/test/IMG_ENC00975_00005.jpg",
+            "data/images/test/IMG_ENC00975_00006.jpg",
+            "data/images/test/IMG_ENC00975_00007.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Varón, 16 años.  Tiene pústulas desde hace 10 años en manos y pies."
+            },
+            {
+                "from": "human",
+                "value": "Anteriormente diagnosticado como eczema crónico.  Algunos de nuestros colegas sospecharon que se trataba de sarna. Y por ello se trató una vez como tal, sin éxito.\nMás tarde, con un seguimiento de la historia clínica, se reveló que la lesión en el pie era el resultado de una escaldadura.  Las lesiones en las manos y los pies llevan ahí 10 años.  Hubo cierto alivio tras el uso de antibióticos.  Ahora aparecen sobre todo en las palmas y en los laterales de las manos y los pies.\nUna vez más, ¿parece un eczema?\n¿Cómo se explican estas pequeñas pústulas?\nFoto subida antes:\nEl último estado:\n"
+            }
+        ]
+    },
+    {
+        "id": "ENC00976",
+        "image": [
+            "data/images/test/IMG_ENC00976_00001.jpg",
+            "data/images/test/IMG_ENC00976_00002.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "¿Es acné o foliculitis por malassezia?  ¿Me aconsejáis?"
+            },
+            {
+                "from": "human",
+                "value": "El paciente es un varón de mediana edad.  Las erupciones aparecen sobre todo en el pecho y la espalda.  No pica ni duele.  ¿Puedo preguntar cómo distinguir estas dos enfermedades sin hacer una prueba de infección fúngica?  Si tenemos en cuenta la localización de las erupciones, ambas enfermedades pueden aparecer en la parte anterior del pecho y en la parte posterior del cuerpo.  Si nos fijamos en la forma, ambas tienen erupciones rojas con pus en la parte superior."
+            }
+        ]
+    },
+    {
+        "id": "ENC00977",
+        "image": [
+            "data/images/test/IMG_ENC00977_00001.jpg",
+            "data/images/test/IMG_ENC00977_00002.jpg",
+            "data/images/test/IMG_ENC00977_00003.jpg",
+            "data/images/test/IMG_ENC00977_00004.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Maculopápula en la pierna (más detalle en la foto).  Muy pruriginosa.  Las fotos muestran la evolución."
+            },
+            {
+                "from": "human",
+                "value": "Sin causa evidente ni aviso, puede producir mucho picor en la pierna.  Al empezar hay una masa de erupciones rojas de color claro.  Empieza a adquirir un color más intenso y se eleva por encima de la superficie de la piel, formando un bulto.  Pica todo el tiempo.  Una vez que se rasca, se expande a un área mucho más grande de forma irregular.\nEsta foto muestra 3 días después del inicio de la enfermedad.  La siguiente muestra el cuarto día.  Mira, se vuelve más de color rojo, y el área se reduce.  El borde se está volviendo más claro, y más brillante en la superficie. También puede verse una tenue mancha roja en el centro. La temperatura de la zona afectada es cada vez más alta, pica......\nPasan dos días y al sexto día empieza a remitir.  Se puede ver claramente la mancha roja en el centro, que es el lugar donde más pica.\nLas 2 fotos siguientes muestran la situación al 7º día.  La tercera corresponde al 9º día.  La pequeña mancha roja sigue ahí, pero pica menos.\nEl 17º día, no hay mucha sensación.  Sin embargo, sigue ahí, disminuye lentamente y ya no pica.\n3 meses después, están apareciendo algunos, todos en las extremidades inferiores, con uno en la parte delantera del brazo izquierdo.  No son tan graves, ni simétricos, pero pican mucho.  He probado loratadina y cetirizina y otras cremas tópicas, sin mucho efecto.  Creo que se trata de una reacción de hipersensibilidad de tipo 4.  Si no se maneja adecuadamente, podría resultar en la formación de gran cantidad de complejo inmune dañando mi hígado débil.  Ahh .. ¿Hay algún dermatólogo profesional que pueda ayudar en esto.  Estoy en medicina interna, no somos expertos en esto .\n"
+            }
+        ]
+    },
+    {
+        "id": "ENC00978",
+        "image": [
+            "data/images/test/IMG_ENC00978_00001.jpg",
+            "data/images/test/IMG_ENC00978_00002.jpg",
+            "data/images/test/IMG_ENC00978_00003.jpg",
+            "data/images/test/IMG_ENC00978_00004.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "¿Ésto es herpes zóster?"
+            },
+            {
+                "from": "human",
+                "value": "He encontrado dos ampollas cerca de las costillas al bañarme.  No pica ni duele.  El verano del año pasado encontré casualmente dos ampollas parecidas.  Estaban en la parte exterior de la pelvis, y no picaban ni dolían.  Entonces pensé que era herpes.  Remitió unos días después de que me aplicara aciclovir por vía tópica. Reapareció un par de veces después.  Pero también remitió sin ninguna intervención.  Es de color morado oscuro.  Siento hormigueo después de abrir la ampolla. Nunca ocurre en invierno.  Recayó el mes pasado. Apareció en la parte externa de la pelvis al empezar, y remitió unos días después.  Estos días está volviendo, y en el borde de las costillas.  No hay mejoría después de usar aciclovir.  ¿Puedo preguntar a los expertos aquí si se trata de herpes zoster o eccema vesiculoso?  Hoy he ido al hospital para hacerme un análisis de sangre rutinario y la proteína C reactiva.  No revelaron ningún problema.  El médico ha dicho que se trata de una infección por ácaros y me ha recetado valaciclovir, loratadina y medicamentos tópicos para proteger la piel y las mucosas.  No veo claro el diagnóstico ni los medicamentos.  Pero lo probaré primero y espero que el problema no vuelva."
+            }
+        ]
+    },
+    {
+        "id": "ENC00979",
+        "image": [
+            "data/images/test/IMG_ENC00979_00001.jpg",
+            "data/images/test/IMG_ENC00979_00002.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Ver foto para diagnóstico."
+            },
+            {
+                "from": "human",
+                "value": "La paciente es una mujer de 48 años.  Le salen ampollas en ambos miembros superiores y en las plantas de los pies.  Producen picor.  En la foto se ve cuando se abren.  ¿Podrían los expertos ayudar al diagnóstico?"
+            }
+        ]
+    },
+    {
+        "id": "ENC00980",
+        "image": [
+            "data/images/test/IMG_ENC00980_00001.jpg",
+            "data/images/test/IMG_ENC00980_00002.jpg",
+            "data/images/test/IMG_ENC00980_00003.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "¿Ésto es eccema agudo o herpes simple?"
+            },
+            {
+                "from": "human",
+                "value": "Tengo 19 años, soy varón. Hace medio mes me salieron 4 marcas rojas oscuras desiguales en las dos mejillas de la cara. Al principio pensé que eran acné. Dos o tres días después, la piel se peló y supuraba pus. Yo mismo creo que se trata de un eczema. ¿Qué medicina es buena para eso, incluyendo medicinas de uso oral y tópico? ¿Pueden detallar un tratamiento?"
+            }
+        ]
+    },
+    {
+        "id": "ENC00981",
+        "image": [
+            "data/images/test/IMG_ENC00981_00001.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Lesión en la piel del dedo."
+            },
+            {
+                "from": "human",
+                "value": "Queridos hermanos y hermanas.  Tengo un problema muy molesto y espero que puedan ayudarme a resolverlo.  Gracias de antemano. \nEstoy estudiando en Europa.  Allí trabajo a tiempo parcial en un restaurante chino.  Mis tareas incluyen: lavar vasos, ceniceros (no utilizo detergentes), servir mesas, etc.  Desde que empecé a trabajar, se me arranca la piel de las manos (véase la foto de abajo).  Al principio, va desgarrando la piel poco a poco, hasta que toda la zona con huella dactilar está completamente arrancada. (Primero el dedo anular, luego el dedo corazón y después el dedo índice).  Lo que queda se vuelve muy duro, áspero y empieza a agrietarse, a sangrar y a doler mucho.  La piel va saliendo capa a capa.  Esto causa grandes inconvenientes en mi vida diaria.  Si dejo de trabajar, se cura poco a poco.  El problema reaparece cuando vuelvo a trabajar.  Me pasa lo mismo aunque cambie de restaurante. \nHe visitado a un dermatólogo aquí.  No me ha dicho nada especial, sólo me ha dicho que he usado demasiado jabón.  Me recetaron dos medicamentos. Uno para el día y otro para la noche.  El medicamento para el día contiene carbamida.  Me duele un poco al frotármelo en la mano, pero muestra cierta mejoría.  No sé mucho de la pomada para usar por la noche, pero no ayuda en absoluto.  No se quien me puede ayudar, diagnosticar la enfermedad y el tratamiento que necesita.\nP.D. Tengo una amiga que tiene los mismos síntomas.  Ella me dijo que el problema se ha ido que después de tomar un medicamento con el nombre de Sporanox .  No estoy seguro de si debo tomar este medicamento.  Este medicamento no se puede comprar en la farmacia sin receta de un médico.\nGracias de nuevo por la ayuda.\n"
+            }
+        ]
+    },
+    {
+        "id": "ENC00982",
+        "image": [
+            "data/images/test/IMG_ENC00982_00001.jpg",
+            "data/images/test/IMG_ENC00982_00002.jpg",
+            "data/images/test/IMG_ENC00982_00003.jpg",
+            "data/images/test/IMG_ENC00982_00004.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Dermatólogos, ¿os importaría mirar este problema cutáneo? Muchas gracias."
+            },
+            {
+                "from": "human",
+                "value": "Ayúdenme a diagnosticar de qué enfermedad cutánea se trata.  ¿Cuál sería el mejor tratamiento?  Paciente varón de 65 años.  Úlcera cutánea recurrente desde hace 2 años.  Picazón.  Sería más grave si consumiera alcohol.  Historial de tratamiento ambulatorio no disponible."
+            }
+        ]
+    },
+    {
+        "id": "ENC00983",
+        "image": [
+            "data/images/test/IMG_ENC00983_00001.jpg",
+            "data/images/test/IMG_ENC00983_00002.jpg",
+            "data/images/test/IMG_ENC00983_00003.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Por favor, comentad cuándo hayáis visto la foto."
+            },
+            {
+                "from": "human",
+                "value": "Una niña de 18 meses. Su madre le vio las lesiones hace dos días. No se reportaron otras molestias. Sensación un poco dura al tocarlo. No es molusco contagioso. Por favor, mire atentamente."
+            }
+        ]
+    },
+    {
+        "id": "ENC00984",
+        "image": [
+            "data/images/test/IMG_ENC00984_00001.jpg",
+            "data/images/test/IMG_ENC00984_00002.jpg",
+            "data/images/test/IMG_ENC00984_00003.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Erupción cutánea típica"
+            },
+            {
+                "from": "human",
+                "value": "Varón, 15 años.  Tiene erupciones como se muestra aquí.  ¿Cuál es el diagnóstico?"
+            }
+        ]
+    },
+    {
+        "id": "ENC00985",
+        "image": [
+            "data/images/test/IMG_ENC00985_00001.jpg",
+            "data/images/test/IMG_ENC00985_00002.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "[Foto adjunta] ¿A alguien le es familiar este tipo de erupción?"
+            },
+            {
+                "from": "human",
+                "value": "Tengo esta erupción desde hace muchos años.  Tengo lesiones en el abdomen y en la parte posterior del cuerpo.  Uno o dos también en las extremidades.  \nNo están presentes todo el tiempo.  Pueden salir a veces cuando hace calor o sudo, o incluso después de bañarme.  Algo de picor.  Disminuyen después de un tiempo, no son muy graves.  No he hecho ningún tratamiento previo.  ¿Alguien aquí sabe lo que es, cómo tratarlo, qué tipo de medicamentos?  ¿Es urticaria crónica o urticaria papular? “\n"
+            }
+        ]
+    },
+    {
+        "id": "ENC00986",
+        "image": [
+            "data/images/test/IMG_ENC00986_00001.jpg",
+            "data/images/test/IMG_ENC00986_00002.jpg",
+            "data/images/test/IMG_ENC00986_00003.jpg",
+            "data/images/test/IMG_ENC00986_00004.jpg",
+            "data/images/test/IMG_ENC00986_00005.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "¿Podrían los dermatólogos comprobar si se trata de parapsoriasis?"
+            },
+            {
+                "from": "human",
+                "value": "El paciente es varón, 23 años, soldador.  Hace 6 meses le crecieron manchas rojas del tamaño de una cabeza de aguja.  Fue tratado con medicamentos antialérgicos, sin éxito.  Recientemente, las manchas rojas se han convertido en parches rojos que sobresalen de la superficie de la piel y producen picor."
+            }
+        ]
+    },
+    {
+        "id": "ENC00987",
+        "image": [
+            "data/images/test/IMG_ENC00987_00001.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "No sé de qué enfermedad  se trata."
+            },
+            {
+                "from": "human",
+                "value": "Varón, 39 años.  Lesiones cutáneas como las de la foto desde hace más de 10 años.  Las lesiones no son más altas que las zonas circundantes.  No hay sensación de anormalidad subjetivamente.  ¿Puedo preguntar a los expertos de qué enfermedad se trata?  Gracias."
+            }
+        ]
+    },
+    {
+        "id": "ENC00988",
+        "image": [
+            "data/images/test/IMG_ENC00988_00001.jpg",
+            "data/images/test/IMG_ENC00988_00002.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "¿Qué enfermedad es ésta, por favor?"
+            },
+            {
+                "from": "human",
+                "value": "La paciente es una mujer de 18 años. Le crecen muchos bultos pequeños en el lado derecho del ojo. Historial médico de 2 años. Le ocurre más en verano y menos en invierno."
+            }
+        ]
+    },
+    {
+        "id": "ENC00989",
+        "image": [
+            "data/images/test/IMG_ENC00989_00001.jpg",
+            "data/images/test/IMG_ENC00989_00002.jpg",
+            "data/images/test/IMG_ENC00989_00003.jpg",
+            "data/images/test/IMG_ENC00989_00004.jpg",
+            "data/images/test/IMG_ENC00989_00005.jpg",
+            "data/images/test/IMG_ENC00989_00006.jpg",
+            "data/images/test/IMG_ENC00989_00007.jpg",
+            "data/images/test/IMG_ENC00989_00008.jpg",
+            "data/images/test/IMG_ENC00989_00009.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "¿Qué enfermedad es ésta, por favor?"
+            },
+            {
+                "from": "human",
+                "value": "Paciente varón de 31 años. Masa roja en forma de ampolla en el labio inferior.  Blanda, no pica ni duele, sangra al rascar, y cuando se detiene el sangrado crece una membrana blanca en la superficie.  Esta membrana se convierte gradualmente en una cicatriz blanco-amarillenta.\nNo excluye el granuloma piógeno.  Pero el tamaño es significativamente menor que el del granuloma piógeno.  Diámetro de sólo 0,3 cm, y no hay signos de crecimiento.\n"
+            }
+        ]
+    },
+    {
+        "id": "ENC00990",
+        "image": [
+            "data/images/test/IMG_ENC00990_00001.jpg",
+            "data/images/test/IMG_ENC00990_00002.jpg",
+            "data/images/test/IMG_ENC00990_00003.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Mujer, 58 años.  Está así después de recoger verduras en el huerto."
+            }
+        ]
+    },
+    {
+        "id": "ENC00991",
+        "image": [
+            "data/images/test/IMG_ENC00991_00001.jpg",
+            "data/images/test/IMG_ENC00991_00002.jpg",
+            "data/images/test/IMG_ENC00991_00003.jpg",
+            "data/images/test/IMG_ENC00991_00004.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "¿Puede aconsejar un tratamiento para esta erupción cutánea?"
+            },
+            {
+                "from": "human",
+                "value": "Varón, 10 años. Ha padecido durante 6 meses. La lesión no produce picazón ni dolor. Chico sano. ¿Puedo preguntar qué enfermedad es y cuál es el tratamiento? ¡Gracias!"
+            }
+        ]
+    },
+    {
+        "id": "ENC00992",
+        "image": [
+            "data/images/test/IMG_ENC00992_00001.jpg",
+            "data/images/test/IMG_ENC00992_00002.jpg",
+            "data/images/test/IMG_ENC00992_00003.jpg",
+            "data/images/test/IMG_ENC00992_00004.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Ver foto para diagnóstico."
+            },
+            {
+                "from": "human",
+                "value": "El paciente es varón, tiene 16 años.  Hace 1 mes le salió un habón en la extremidad inferior izquierda tras sentir picor.  El paciente se rascó.  Usa medicamento tópico (se desconoce cuál).  No mejora y vendrá hoy a la clínica.  Ver fotos.  La zona afectada no es dolorosa, pero pica ligeramente."
+            }
+        ]
+    },
+    {
+        "id": "ENC00993",
+        "image": [
+            "data/images/test/IMG_ENC00993_00001.jpg",
+            "data/images/test/IMG_ENC00993_00002.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "¿Qué enfermedad es ésto?"
+            },
+            {
+                "from": "human",
+                "value": "El paciente tiene la enfermedad en la uña del dedo desde hace más de 6 meses.  El síntoma principal es el dolor.  La historia clínica de la extremidad inferior tiene más de 10 años.  La queja principal es el picor.  No sé si hay relación entre ambas.  Por favor, ayúdenme."
+            }
+        ]
+    },
+    {
+        "id": "ENC00994",
+        "image": [
+            "data/images/test/IMG_ENC00994_00001.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "¿Me ayudáis con este caso? ¿Cómo trato este queloide?"
+            },
+            {
+                "from": "human",
+                "value": "Queridos compañeros, ¿puedo solicitar un plan de tratamiento para esto? ¿Hay algún medicamento que cueste menos? Consulté en el departamento de cosmetología, y una inyección cuesta varios miles de dólares. Demasiado caro, no puedo permitírmelo. Todavía está creciendo ahora. Solicito un buen tratamiento, incluso para hacer que el problema disminuya."
+            }
+        ]
+    },
+    {
+        "id": "ENC00995",
+        "image": [
+            "data/images/test/IMG_ENC00995_00001.jpg",
+            "data/images/test/IMG_ENC00995_00002.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Ver foto para diagnóstico."
+            },
+            {
+                "from": "human",
+                "value": "Varón de 20 años.  Presenta erupciones en la nuca, como se muestra en la imagen.  El paciente no refiere ningún síntoma en particular.  Suda con facilidad.  ¿Diagnóstico?  ¿Tratamiento?"
+            }
+        ]
+    },
+    {
+        "id": "ENC00996",
+        "image": [
+            "data/images/test/IMG_ENC00996_00001.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "¿Podrían ayudar los dermatólogos?"
+            },
+            {
+                "from": "human",
+                "value": "Sin ninguna causa obvia, hace 3 años me aparecieron erupciones rojas pruriginosas. Problema resuelto después de la aplicación del fármaco. Recurren todos los años alrededor de octubre, disminuyendo en febrero y marzo. Solicitud de tratamiento y diagnóstico. Muchas gracias a nuestros expertos."
+            }
+        ]
+    },
+    {
+        "id": "ENC00997",
+        "image": [
+            "data/images/test/IMG_ENC00997_00001.jpg",
+            "data/images/test/IMG_ENC00997_00002.jpg",
+            "data/images/test/IMG_ENC00997_00003.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "¿es tiña?"
+            },
+            {
+                "from": "human",
+                "value": "Han pasado 10 días.  Empezaron siendo ampollas, y poco a poco se fueron rompiendo.  Pica y el niño no para de rascárselas.  Se utilizó calamina en polvo, y los bordes quedaron de color blanquecino.  Espero obtener el diagnóstico y el tratamiento.  Además: sospechamos que se trataba de la enfermedad mano-pie-boca inicialmente cuando se vieron las ampollas. Los análisis de sangre mostraron que el recuento de glóbulos blancos era de 16X10^9.  La prueba de la proteína C reactiva (PCR) y la velocidad de eritrosedimentación eran normales."
+            }
+        ]
+    },
+    {
+        "id": "ENC00998",
+        "image": [
+            "data/images/test/IMG_ENC00998_00001.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "El aspecto de la piel."
+            },
+            {
+                "from": "human",
+                "value": "Niña de 5 años.  Lesión empezó como una pequeña pápula, y creció hasta esto en una semana.  No pica ni duele.  Sus padres le aplicaron una loción tópica de mercurocromo.  Su hermano de 2 años también tiene esta erupción.  Solicito la ayuda de un experto."
+            }
+        ]
+    },
+    {
+        "id": "ENC00999",
+        "image": [
+            "data/images/test/IMG_ENC00999_00001.jpg",
+            "data/images/test/IMG_ENC00999_00002.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Un punto blanco que mide como un grano de arroz."
+            },
+            {
+                "from": "human",
+                "value": "Hay más de 10 manchas blancas en mi abdomen.  \nTambién encontré algunas en mis muslos.  No lo había notado antes.  \n¿Es vitiligo?  Por favor, ayúdenme."
+            }
+        ]
+    },
+    {
+        "id": "ENC01000",
+        "image": [
+            "data/images/test/IMG_ENC01000_00001.jpg",
+            "data/images/test/IMG_ENC01000_00002.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Una ampolla rara"
+            },
+            {
+                "from": "human",
+                "value": "Hombre joven.  Ampollas recurrentes en verano.  Se observa pigmentación tras la curación.  Ninguna molestia evidente.  ¿Qué opinan?"
+            }
+        ]
+    },
+    {
+        "id": "ENC01001",
+        "image": [
+            "data/images/test/IMG_ENC01001_00001.jpg",
+            "data/images/test/IMG_ENC01001_00002.jpg",
+            "data/images/test/IMG_ENC01001_00003.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Muy urgente, por favor diagnostique de qué enfermedad cutánea se trata."
+            },
+            {
+                "from": "human",
+                "value": "Varón, más de 20 años.  Se observa en la cara interna del muslo izquierdo.  Hace 7 -8 meses, sólo era del tamaño de una semilla de soja.  Al igual que el eritema, no está rojo, no se hincha, no pica y no se siente ninguna molestia.  Ahora crece hasta el tamaño de una moneda.\n1.  ¿Qué es esto?\n2.  ¿Cuál es el tratamiento?  ¿Es difícil de tratar?\n"
+            }
+        ]
+    },
+    {
+        "id": "ENC01002",
+        "image": [
+            "data/images/test/IMG_ENC01002_00001.jpg",
+            "data/images/test/IMG_ENC01002_00002.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Dos casos clínicos."
+            },
+            {
+                "from": "human",
+                "value": "Mujer, 56 años.  Tiene una pápula del color de la piel en la parte inferior de la pierna derecha desde hace más de 2 años.  (Dijo que antes había tenido el mismo problema en el cuello y que se le había curado después de usar una crema tópica.  Pero no funciona en la parte inferior de la pierna).  Hinchazón y enrojecimiento en la uña del pulgar.  Es dolorosa y lleva así más de medio mes."
+            }
+        ]
+    },
+    {
+        "id": "ENC01003",
+        "image": [
+            "data/images/test/IMG_ENC01003_00001.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Paciente de consultas externas"
+            },
+            {
+                "from": "human",
+                "value": "Crecimiento irregular de erupciones rojas simétricas en el cuello del paciente durante más de 2 meses.  Ligero picor.  Se diagnosticaron de dermatitis de contacto hace un año.  Sin relación con los cuellos de la ropa."
+            }
+        ]
+    },
+    {
+        "id": "ENC01004",
+        "image": [
+            "data/images/test/IMG_ENC01004_00001.jpg",
+            "data/images/test/IMG_ENC01004_00002.jpg",
+            "data/images/test/IMG_ENC01004_00003.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Picor en los brazos."
+            },
+            {
+                "from": "human",
+                "value": "Sin ninguna causa evidente, hace un mes crecieron bultos blancos translúcidos en la parte externa de ambos brazos de mi mujer.  No hay líquido dentro de los bultos.  Pican.\n¿Podrían diagnosticar de qué enfermedad se trata, y me recomiendan medicamentos? Voy a ir a comprarlos .\n"
+            }
+        ]
+    },
+    {
+        "id": "ENC01005",
+        "image": [
+            "data/images/test/IMG_ENC01005_00001.jpg",
+            "data/images/test/IMG_ENC01005_00002.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Ver foto de la enfermedad - erupción maculopapular"
+            },
+            {
+                "from": "human",
+                "value": "El paciente es varón, 16 años.  Impresión: apendicitis.  Tuvo gripe durante su estancia en el hospital.  Tras la inyección de antondina por el médico del turno de noche, la piel de la zona afectada empieza a picar.  Acuden a consulta al día siguiente."
+            }
+        ]
+    },
+    {
+        "id": "ENC01006",
+        "image": [
+            "data/images/test/IMG_ENC01006_00001.jpg",
+            "data/images/test/IMG_ENC01006_00002.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hoy durante el examen físico.  Solicito ayuda para el diagnóstico."
+            },
+            {
+                "from": "human",
+                "value": "Las erupciones crecen principalmente alrededor de la cintura, siendo más densas en la región periumbilical. El paciente informó que le pica más al rascarse."
+            }
+        ]
+    },
+    {
+        "id": "ENC01007",
+        "image": [
+            "data/images/test/IMG_ENC01007_00001.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Tengo un nevus rojo pequeño en el pecho. ¿Cuál es la causa?"
+            },
+            {
+                "from": "human",
+                "value": "Crece un pequeño lunar en la piel de la parte anterior del pecho.  ¿Cuál es la causa?"
+            }
+        ]
+    }
+]
